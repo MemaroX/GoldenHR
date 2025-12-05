@@ -1,0 +1,18 @@
+{
+  "fastapi": ["python", "rest api", "backend development"],
+  "react": ["javascript", "html", "css", "frontend development", "ui/ux principles"],
+  "docker": ["devops", "containers", "linux"],
+  "pytorch": ["python", "machine learning", "deep learning", "mathematics"],
+  "javascript": ["frontend development", "programming fundamentals"],
+  "python": ["programming fundamentals", "scripting"],
+  "html": ["web development basics"],
+  "css": ["web development basics", "styling"],
+  "rest api": ["api design", "http protocols"],
+  "backend development": ["server management", "database concepts"],
+  "frontend development": ["ui/ux principles", "browser technologies"],
+  "machine learning": ["data science", "statistics", "mathematics"],
+  "deep learning": ["machine learning", "neural networks"],
+  "devops": ["system administration", "automation"],
+  "containers": ["virtualization"],
+  "linux": ["operating systems"]
+}
